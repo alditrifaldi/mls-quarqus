@@ -1,4 +1,4 @@
-package com.example;
+package com.microlistics.wms;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;

@@ -1,4 +1,4 @@
-package com.example;
+package com.microlistics.wms;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
